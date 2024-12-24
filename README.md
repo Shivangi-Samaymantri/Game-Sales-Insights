@@ -31,5 +31,4 @@ The dataset includes global sales data for video games across various platforms,
 ---
 
 ## Future Work
-- Adding predictive models for sales trends.
-- Expanding
+- Expanding the analysis to include regional sales data.
